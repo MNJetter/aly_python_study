@@ -7,7 +7,7 @@ print "It is a number from 1 to 99. I'll give you 6 tries. "
 while guess != secret and tries < 6:
 	guess = input("What's yer guess?")
 	if guess < secret:
-		print "Too low, ye scurby dog!"
+		print "Too low, ye scurvy dog!"
 	elif guess > secret:
 		print "Too high, landlubber!"
 	tries = tries + 1
