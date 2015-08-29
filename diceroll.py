@@ -16,10 +16,8 @@ import random
 random.seed()
 
 ##################################################
-## ask the user how many dice they are rolling  ##
 ## MILESTONE IN PROGRESS---JUST NOTES FOR NOW   ##
-## -  First get input to define multiplier.     ##
-## -  Then figure out how to get that number of ##
+## -  Figure out how to use the mplr number of  ##
 ##    dice... this part is extra hard because   ##
 ##    we're not just multiplying dice, like     ##
 ##    getting a d4 roll and tacking on a '* n'  ##
