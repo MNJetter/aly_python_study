@@ -26,7 +26,7 @@ random.seed()
 ##    times equal to the multiplier input       ##
 ##    value below. I'm sure it will end up      ##
 ##    being a loop of some sort...              ##
-## -  Something will have to change in line 39  ##
+## -  Something will have to change in 'roll'   ##
 ##    ...but what?                              ##
 ##################################################
 
