@@ -42,7 +42,7 @@ print "I'm going to write these to the file."
 #! target.write("%r \n %r \n %r \n") % (line1, line2, line3)
 #! target.write(line1, "\n", line2, "\n", line3, "\n")
 #! target.write("%r%r%r") % (line1, line2, line3)
-target.write()
+#! target.write("%r \n %r \n %r \n") % line1, line2, line3
 
 # close the file---good habit.
 print "And finally, we close it."
