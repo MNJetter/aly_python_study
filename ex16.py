@@ -10,7 +10,7 @@ print "If you do want that, hit RETURN."
 # user gets to enter text here
 raw_input("?")
 
-#! 'create' the file (open a previously nonexistant file) and...what does 'w' do?
+# 'create' the file (open a previously nonexistant file) in write mode
 print "Opening the file..."
 target = open(filename, 'w')
 
