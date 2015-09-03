@@ -10,7 +10,7 @@ raw_input("?")
 print "Opening the file..."
 target = open(filename, 'w')
 
-#! truncate the file...not sure what that means...close it? My best guess is that it essentially erases any existing information on the file so the rest of the program can run as a "new" file.
+#ISSUE truncate the file...not sure what that means...close it? My best guess is that it essentially erases any existing information on the file so the rest of the program can run as a "new" file.
 print "Truncating the file. Goodbye!"
 target.truncate()
 
