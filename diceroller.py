@@ -2,10 +2,10 @@
 ## Begin DICEROLLER.                            ##
 ##################################################
 ## This script is a d20-style dice roller. It   ##
-## requires of a multiplier, dice type, and     ##
-## modifier, and displays relevant information  ##
-## on the screen, including the result of each  ##
-## roll.                                        ##
+## requires the user to input numbers for a     ##
+## multiplier, dice type, and modifier, and     ##
+## displays relevant information on the screen, ##
+## including the result of each roll.           ##
 ##################################################
 ## (c) 2015 Aly Woolfrey                        ##
 ##################################################
